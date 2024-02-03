@@ -33,7 +33,7 @@ Tabel base dalam project ini dibuat dari gabungan tabel penjualan, barang, dan p
 
 ### Tabel Agregate
 Dalam project ini terdapat beberapa tabel agregate yang dibuat dari tabel base. <br>
-[Klik disini untuk melihat Query](VIX-Big-Data-Analytics-Kimia-Farma/datamart/Tabel%20Agregate/)
+[Klik disini untuk melihat Query](/datamart/Tabel%20Agregate/)
 
 ---
 ## Data Visualization
