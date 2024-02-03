@@ -24,7 +24,7 @@ Dataset yang disediakan terdiri dari tabel-tabel berikut :
 ## Design Datamart
 ### Tabel Base
 Tabel base dalam project ini dibuat dari gabungan tabel penjualan, barang, dan pelanggan dengan primary key `id_invoice`. <br>
-[Klik disini untuk melihat Query](VIX-Big-Data-Analytics-Kimia-Farma/datamart/Tabel%20Base/table%20base.sql)
+[Klik disini untuk melihat Query](/datamart/Tabel%20Base/table%20base.sql)
 
 <p align="center">
    <img src="picture/output tabel base.png" width = 1000 px> <br>
