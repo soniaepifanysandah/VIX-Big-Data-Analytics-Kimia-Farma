@@ -27,7 +27,7 @@ Tabel base dalam project ini dibuat dari gabungan tabel penjualan, barang, dan p
 [Klik disini untuk melihat Query](VIX-Big-Data-Analytics-Kimia-Farma/datamart/Tabel%20Base/table%20base.sql)
 
 <p align="center">
-   <img src="picture/output tabel base.png" width = 600 px>
+   <img src="picture/output tabel base.png" width = 1000 px> <br>
   Gambar 1 — Output Pembuatan Tabel Base
 </p>
 
@@ -39,7 +39,7 @@ Dalam project ini terdapat beberapa tabel agregate yang dibuat dari tabel base. 
 ## Data Visualization
 
 <p align="center">
-   <img src="picture/Dashboard.png" width = 600 px>
+   <img src="picture/Dashboard.png" width = 1000 px> <br>
   Gambar 2 — Brand Salycyl Sales Dashboard
 </p>
 
